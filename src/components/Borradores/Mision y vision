@@ -1,0 +1,33 @@
+Nuestra Misión
+En [Nombre de tu Empresa], nos dedicamos a proporcionar soluciones de desarrollo de software innovadoras y altamente disponibles. Utilizamos Veeam Backup & Replication (B&R) para garantizar que los datos de nuestros clientes estén siempre protegidos y accesibles. Nos especializamos en el modelado preciso de bases de datos y sistemas, asegurando una integración segura y eficiente con los servicios de nuestros clientes. Nuestro enfoque flexible de precios, basado en la evaluación continua de nuevos requerimientos, garantiza un valor justo y adaptado a cada necesidad. Nuestra prioridad es la seguridad revolucionaria en el acceso y gestión de datos en aplicaciones empresariales.
+
+Nuestra Visión
+Aspiramos a ser líderes en el campo del desarrollo de software y las soluciones de alta disponibilidad. Nos esforzamos por transformar la manera en que las empresas manejan y protegen sus datos, ofreciendo soluciones robustas y seguras que promuevan la innovación y el crecimiento sostenido. Nuestra visión es construir un futuro donde la seguridad de la información y la disponibilidad constante de datos sean pilares fundamentales del éxito empresarial.
+
+Nuestros Servicios
+Desarrollo de Software Personalizado
+Ofrecemos soluciones de software a medida que se adaptan a las necesidades específicas de cada cliente, garantizando una integración fluida y eficiente con sus sistemas existentes.
+Especializados en la creación de aplicaciones web interactivas y atractivas utilizando tecnologías como React, Firebase y Material-UI.
+
+Alta Disponibilidad (HA) con Veeam B&R
+Implementamos soluciones de alta disponibilidad utilizando Veeam Backup & Replication para asegurar que los datos de nuestros clientes estén siempre disponibles y protegidos contra fallos.
+
+Modelado de Bases de Datos y Sistemas
+Nos especializamos en la creación de modelos E/R precisos y detallados, así como en el diseño de bases de datos robustas, asegurando una estructura sólida y escalable para las aplicaciones de nuestros clientes.
+
+Seguridad de la Información
+Priorizamos la seguridad en todos nuestros desarrollos, implementando medidas avanzadas para proteger el acceso y la integridad de los datos, garantizando que nuestras aplicaciones sean seguras y confiables.
+
+Evaluación y Adaptación Continua
+Cada nuevo requerimiento es evaluado y adaptado con precios justos y flexibles, permitiendo a nuestros clientes mantener un control claro sobre sus inversiones y el desarrollo de sus proyectos.
+
+
+
+                Experiencia en implementar sistemas seguros de autenticación en mis desarrollos, incluyendo:
+
+                <b>JWT (JSON Web Tokens):</b> Implementación de autenticación segura usando JWT para garantizar la integridad y autenticidad de los tokens en tus aplicaciones.<br/>
+                <b>Autenticación de Dos Factores (2FA):</b> Configuración de 2FA para añadir una capa adicional de seguridad a los sistemas de autenticación.<br/>
+                <b>Integración con Active Directory (AD) + JWT:</b> Integración de sistemas de autenticación con Active Directory para aprovechar la gestión centralizada de usuarios y emitir tokens JWT para sesiones autenticadas.<br/>
+                <b>Firebase Auth + JWT:</b> Uso de Firebase Authentication para gestionar usuarios y generación de tokens JWT para proteger tus aplicaciones web y móviles.<br/>
+                <b>Instalacion y configuracion de Veeam B&R:</b> Todas nuestras aplicaciones las entregamos con Veeam B&R configurados hacia nuestras aplicaciones, respaldos para la continuidad de su negicio.<br/>
+                <i>Estos servicios están diseñados para garantizar la seguridad y la protección de tus aplicaciones contra accesos no autorizados.</i>
