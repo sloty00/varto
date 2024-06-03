@@ -21,7 +21,7 @@ const carouselItems = [
   {
     title: 'Desarrollo APP',
     description: 'Aplicaciones Webs / Workflow para Empresas.',
-    imageUrl: 'images/desarrollo_app2.png',
+    imageUrl: 'images/varto_desk.jpg',
   },
   {
     title: 'Consultoría Técnica',
@@ -55,7 +55,7 @@ const CarouselHeader = () => {
       <AppBar position="sticky" sx={{ backgroundColor: '#333' }}>
         <Toolbar>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-          <img src="/images/varto1.png" alt="Logo de la empresa" style={{ height: '50px', marginRight: '20px' }} />
+          <img src="/images/OIG5.jpg" alt="Logo de la empresa" style={{ height: '50px', marginRight: '20px' }} />
           </Typography>
           <ScrollLink to="inicio" smooth={true} duration={500}>
             <Button color={isActive('/') ? 'primary' : 'inherit'} component={Link} to="/"><HomeIcon />Inicio</Button>
@@ -76,19 +76,24 @@ const CarouselHeader = () => {
       </AppBar>
       <Slider {...settings}>
       {carouselItems.map((item, index) => (
-          <Box key={index} sx={{ position: 'relative', textAlign: 'center', color: 'white' }}>
+          <Box key={index} sx={{ 
+            position: 'relative',
+            top: '20%',
+            textAlign: 'center', 
+            color: 'white' 
+            }}>
             {/* Logo de la empresa en cada diapositiva */}
             <Box sx={{
               position: 'absolute',
-              top: '20%',
-              left: '50%',
+              top: '25%',
+              left: '15%',
               transform: 'translate(-50%, -50%)',
-              bgcolor: 'rgba(0, 0, 0, 0.5)',
+              bgcolor: 'rgba(0, 0, 0, 0.0)',
               padding: 2,
               borderRadius: 1,
             }}>
             <img
-              src="/images/varto.png"
+              src="/images/OIG5.jpg"
               alt="Logo de la empresa"
               style={{
                 height: '150px',
@@ -99,12 +104,12 @@ const CarouselHeader = () => {
             <img
               src={item.imageUrl}
               alt={item.title}
-              style={{ width: '100%', height: '540px', objectFit: 'cover' }} // Tamaño fijo de 300px de alto
+              style={{ width: '70%', height: '540px', objectFit: 'cover', float: 'right' }} // Tamaño fijo de 300px de alto
             />
             <Box sx={{
               position: 'absolute',
-              top: '50%',
-              left: '50%',
+              top: '70%',
+              left: '15%',
               transform: 'translate(-50%, -50%)',
               bgcolor: 'rgba(0, 0, 0, 0.5)',
               padding: 2,

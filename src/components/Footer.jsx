@@ -28,7 +28,7 @@ const Footer = () => {
                 <IconButton color="inherit" href="https://github.com/sloty00" target='_blank'>
                   <GitHubIcon />
                 </IconButton>
-                <a href="https://wa.me/whatsappphonenumber?text=Hello%2C%20I%20would%20like%20to%20message%20you" target="_blank" rel="noopener noreferrer">
+                <a href="https://wa.me/+56940595589?text=Hola%2C%20puedes%20enviarme%20tu%20mensaje%20ahora" target="_blank" rel="noopener noreferrer">
                   <IconButton color="primary">
                     <WhatsAppIcon />
                   </IconButton>
